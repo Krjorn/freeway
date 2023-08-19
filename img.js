@@ -16,7 +16,6 @@ function preload() {
   car2Img = loadImage("img/carro-2.png");
   car3Img = loadImage("img/carro-3.png");
   carsImg = [carImg, car2Img, car3Img, carImg, car2Img, car3Img];
-  actorsImg = [actorImg, actorImg];
   
   soundtrack = loadSound("sound/soundtrack.mp3");
   hitSfx = loadSound("sound/hit.mp3");
