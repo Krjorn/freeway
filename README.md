@@ -9,7 +9,7 @@ Réplica do jogo Freeway desenvolvida em JavaScript utilizando a biblioteca P5.j
 | :rocket: URL | https://krjorn.github.io/freeway/
 | :fire: Desafio | https://cursos.alura.com.br/course/javascript-listas-lacos
 
-![GIF do jogo Pong](img/project.gif#vitrinedev)
+![GIF do jogo Freeway](img/project.gif#vitrinedev)
 
 ## Detalhes do projeto
 
