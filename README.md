@@ -13,4 +13,4 @@ Réplica do jogo Freeway desenvolvida em JavaScript utilizando a biblioteca P5.j
 
 ## Detalhes do projeto
 
-Essa versão do código possui algumas mudanças em relação ao original, que se encontra na branch, para que o multiplayer fosse possível.
+Essa versão do código possui algumas mudanças em relação ao original, que se encontra na branch 'original', para que o multiplayer fosse possível.
